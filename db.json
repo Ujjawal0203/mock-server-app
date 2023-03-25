@@ -10,7 +10,8 @@
 
     "companies":[
       {
-        
+        "id":1,
+        "logo":"fff"
       }
     ]
   }
